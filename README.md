@@ -2,6 +2,7 @@
  [Here](https://youtu.be/ji7iGEvRRlA) is the link to watch it!
  
  ## What's Used to Run It?
+ - JavaScript
  - Node.js
  - Prototypes
  - Constructors
