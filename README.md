@@ -15,3 +15,6 @@
   Once finished, you will be prompted to play again if you so choose.
 
 ![constructor-guess-game](https://user-images.githubusercontent.com/40511023/48926640-75e0ba80-ee95-11e8-93f9-ea34c71e31cc.PNG)
+![constructor-guess-game](https://user-images.githubusercontent.com/40511023/48926667-9f99e180-ee95-11e8-9605-76f55f9afb75.PNG)
+
+
