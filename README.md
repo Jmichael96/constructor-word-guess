@@ -13,3 +13,5 @@
   Once the game starts it selects a random word which the user has 11 guesses left to figure it out.
   After each and every guess it will notify you if you are correct, wrong, or have already guessed that letter.
   Once finished, you will be prompted to play again if you so choose.
+
+![constructor-guess-game](https://user-images.githubusercontent.com/40511023/48926640-75e0ba80-ee95-11e8-93f9-ea34c71e31cc.PNG)
